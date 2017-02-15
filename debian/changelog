@@ -1,3 +1,9 @@
+softether-vpn (4.22-9634-beta~ahrefs) unstable; urgency=medium
+
+  * Build
+
+ -- ip <igor@ahrefs.com>  Tue, 14 Feb 2017 16:49:12 -0800
+
 softether-vpn (0:4.04.9412-rtm) unstable; urgency=low
 
   * Testing debianization
